@@ -63,7 +63,7 @@ See the full license in the [LICENSE](./LICENSE) file.
 ## 🤝 Credits
 
 - 🔧 Built with [FFmpeg](https://ffmpeg.org)
-- 🧠 Designed by [Sidratul Al Birun](https://github.com/your-username)
+- 🧠 Designed by [Sidratul Al Birun](https://github.com/BirunSID)
 - 💡 Inspired by a lack of beautiful `.ts` converters
 
 ---
