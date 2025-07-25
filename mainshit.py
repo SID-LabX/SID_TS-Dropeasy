@@ -1,1 +1,1 @@
-hellow
+print('hellow');
