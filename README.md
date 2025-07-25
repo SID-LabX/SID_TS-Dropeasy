@@ -72,7 +72,7 @@ See the full license in the [LICENSE](./LICENSE) file.
 
 Got feedback, questions, or want to collaborate?
 
-📧 **Email:** your-email@example.com  
-💻 **GitHub:** [@your-username](https://github.com/your-username)
+📧 **Email:** rageinmist@gmail.com  
+💻 **GitHub:** [BirunSID](https://github.com/BirunSID)
 
 ---
