@@ -27,10 +27,10 @@ Welcome to **TS-Dropeasy** — a minimal, drag-and-drop `.ts` to `.mp4` video co
 ## 📁 Folder Structure
 
 ```bash
-TS-Dropeasy/
-├── assets/                  # Icons, banners, UI files
-├── exe type/               # Executable files (not tracked in Git)
-├── src/                    # Core Python or GUI code (if applicable)
+TS-Dropeasy/  
+├── assets/                  # Icons, banners, UI files(will be added later)
+├── exe & others/            # Executable files (not tracked in Git)
+├── src/                     # Core Python or GUI code (if applicable-will be added later)
 ├── LICENSE
 ├── README.md
 ├── MANUAL.md
@@ -44,8 +44,8 @@ Output: .mp4 (MPEG-4 Part 14)
 ----
 
 ### 🧼 Cleaning Up
-Converted files will retain the original name, with a .mp4 extension.  
-Make sure there’s no special characters in the .ts filename.
+Converted files keep their original name, but you can rename them in the UI with a `.mp4` extension.  
+Make sure there’s no special characters in the `.ts` filename.
 
 ----
 
