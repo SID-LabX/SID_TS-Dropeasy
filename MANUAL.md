@@ -34,42 +34,42 @@ TS-Dropeasy/
 ├── LICENSE
 ├── README.md
 ├── MANUAL.md
-
+```
 ---
 
-🧪 Supported Formats
+### 🧪 Supported Formats
 Input: .ts (Transport Stream)
 Output: .mp4 (MPEG-4 Part 14)
 
-🧼 Cleaning Up
+### 🧼 Cleaning Up
 Converted files will retain the original name, with a .mp4 extension.
 Make sure there’s no special characters in the .ts filename.
 
-🛡️ Safety & Notes
+### 🛡️ Safety & Notes
 🔐 This tool does not upload, track, or log anything.
 ✅ Works offline.
 ❌ Do not run as admin unless necessary.
 🧯 If it doesn’t convert, make sure the file isn't locked by another media player.
 
-📥 Troubleshooting
-Issue	Solution
-.mp4 not generated	Ensure the .ts file isn't corrupt. Try running the .exe as admin once.
-Error: Missing DLL	You might need Visual C++ Redistributables
-Nothing happens	Make sure you're dragging a valid .ts file. Avoid shortcuts/symlinks.
+### 📥 Troubleshooting
+Issue	                Solution
+.mp4 not generated	    Ensure the .ts file isn't corrupt. Try running the .exe as admin once.
+Error: Missing DLL	    You might need Visual C++ Redistributables
+Nothing happens	Make    sure you're dragging a valid .ts file. Avoid shortcuts/symlinks.
 
-🧠 Behind the Scenes
+### 🧠 Behind the Scenes
 The converter uses ffmpeg wrapped in a lightweight GUI shell. It processes the file using direct stream copy to avoid re-encoding and preserve quality
 
-🤝 Credits
+### 🤝 Credits
 Developed by Sidratul Al Birun
 Built using Python + PyInstaller
 Powered by FFmpeg
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License.
 See LICENSE for full terms.
 
-🌐 Links
-🔗 GitHub Repository
-📦 Releases
-🧠 Manual
+#### 🌐 Links
+#### 🔗 GitHub Repository
+#### 📦 Releases
+#### 🧠 Manual
