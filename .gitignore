@@ -1,0 +1,22 @@
+# Ignore compiled binaries and packaged builds
+releases/
+output/
+
+# Ignore common binary types
+*.exe
+*.bat
+*.zip
+*.tar.gz
+
+# Ignore log/temp/build cache
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore system folders
+__pycache__/
+node_modules/
+build/
+dist/
