@@ -35,6 +35,8 @@ TS-Dropeasy/
 ├── README.md
 ├── MANUAL.md
 
+---
+
 🧪 Supported Formats
 Input: .ts (Transport Stream)
 Output: .mp4 (MPEG-4 Part 14)
