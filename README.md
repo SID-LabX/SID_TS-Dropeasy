@@ -24,8 +24,8 @@
 
    ## 🚀 Quick Start
 
-   1. **Open** the TS-Dropeasy app.
-   2. **Drag** any `.ts` file(s) into the window.
+   1. **Open** the TS-Dropeasy exe folder.
+   2. **Drag** any `.ts` file(s) into the exe file.
    3. Wait a moment...
    4. 🎉 Boom! Your `.mp4` file appears in the **same directory**.
 
@@ -37,7 +37,7 @@
 
    - **OS:** Windows 10/11 (macOS/Linux coming soon)
    - **Dependencies:**  
-      - [FFmpeg](https://ffmpeg.org) – bundled or auto-detected
+      - [FFmpeg](https://ffmpeg.org) – bundled or auto-detected *(required only for the .bat version)*
 
    ---
 
