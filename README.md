@@ -62,6 +62,12 @@
 
    ---
 
+   ## 📜 Versioning & History
+
+   We use [Semantic Versioning](https://semver.org) for our releases. For a detailed list of changes for each version, please see the [**CHANGELOG.md**](./ChangeLog.md) file.
+
+   ---
+
    ## 🤝 Credits
 
    - 🔧 Built with [FFmpeg](https://ffmpeg.org)
@@ -69,6 +75,7 @@
    - 💡 Inspired by a lack of beautiful `.ts` converters
 
    ---
+
 
    ## 🗨️ Contact
 
