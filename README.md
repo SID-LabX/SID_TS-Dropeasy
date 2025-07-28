@@ -64,7 +64,7 @@
 
    ## 📜 Versioning & History
 
-   We use [Semantic Versioning](https://semver.org) for our releases. For a detailed list of changes for each version, please see the [**CHANGELOG.md**](./ChangeLog.md) file.
+   We use [Semantic Versioning](https://semver.org) for our releases. For a detailed list of changes for each version, please see the [**Changelog**](./ChangeLog.md) file.
 
    ---
 
