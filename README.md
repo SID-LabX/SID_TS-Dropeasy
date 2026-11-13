@@ -1,3 +1,18 @@
+# Sid_TS-Dropeasy
+
+A brief description of what this project does.
+
+## Contributing
+
+We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and note that all contributors must sign our [Contributor License Agreement (CLA)](CLA.md) before pull requests can be merged.
+
+## License
+
+This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LICENSE](LICENSE).
+
+---
+
+
    # 🎞️ TS-Dropeasy
 
    > A clean, drag-and-drop desktop app to convert `.TS` video files to `.MP4` format using FFmpeg.
