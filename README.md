@@ -13,7 +13,7 @@ This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LI
 ---
 
 
-   # 🎞️ TS-Dropeasy
+   # 🎞️ Sid_TS-Dropeasy
 
    > A clean, drag-and-drop desktop app to convert `.TS` video files to `.MP4` format using FFmpeg.
 
